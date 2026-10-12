@@ -1,0 +1,6 @@
+{
+  "name": "Anime Video Studio AI",
+  "description": "Create anime and cartoon videos, multi-scene stories, YouTube Shorts, voice-over, and export real MP4 files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
